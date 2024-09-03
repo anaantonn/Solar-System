@@ -1,11 +1,11 @@
 
-# Solas System
+# Solar System
 
 A program which is supposed to simmulate the movement of planets around the Sun.
 Another project made in order to practice programming skills.
 The proportions are not accurate as I could not fit everything on the screen.
 
-# Average Distances of Planets from the Sun (in AU)
+## Average Distances of Planets from the Sun (in AU)
 
     Mercury: 0.39 AU
     Venus: 0.72 AU
@@ -31,7 +31,7 @@ The proportions are not accurate as I could not fit everything on the screen.
 
 # Installation
 
-To run this program:
+1. To run this program:
 
     ```bash
     python src/main.py
